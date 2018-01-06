@@ -1,23 +1,16 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "soyoungcheng",
+  "name": "young",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+     "travelApp"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "CG Artist",
+    "iOS Developer"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "Travel"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "twitter": Nil,
+  "github": "https://github.com/soyoungcheng"
 }
